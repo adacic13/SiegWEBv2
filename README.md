@@ -66,3 +66,6 @@ See `compliance/THIRD_PARTY_NOTICES.md` and `compliance/SBOM/sbom.json`
 "Responsively" / "Responsively App" branding belongs to its respective owners.
 SiegWEBv2 uses independent product identity (`SiegWEBv2`, `com.sieg.siegwebv2`,
 `siegweb://`). See `compliance/TRADEMARK_AND_BRANDING.md`.
+
+## Join Discord
+https://discord.com/invite/kFgnhQ6St
