@@ -2,7 +2,7 @@
 
 A developer-friendly desktop browser for developing responsive web apps —
 device lab, DevTools, screenshots, suites — plus an AI Dev Assistant
-(OmniRoute & Google Artemis), Cloudflare Quick Tunnel sharing, a Security Checker
+(OmniRoute, API Keys & Google Artemis), Cloudflare Quick Tunnel sharing, a Security Checker
 (ZAP/Semgrep/Trivy), Multilingual(Dev Assistant) and a picture-in-picture media player.
 
 ## Origin
@@ -17,6 +17,7 @@ contributors are listed in `.all-contributorsrc` / `MAINTAINERS.md`.
 
 - OmniRoute Dev Assistant (`/sieg` palette, tools, memory, file generation)
 - Dev Assistant + Google Artemis (interact to connected device via usb/wifi)
+- Omniroute + API Key (DeepSeek, Qwen, ChatGTP, + Claude)
 - Cloudflare Quick Tunnel integration (managed tunnel + status toast)
 - Security Checker (ZAP/Semgrep/Trivy, redacted reports, JSON/HTML export)
 - MediaToast PiP, DeveloperDialog, Sieg branding/assets, approval chime
